@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>surma.dev</title>
+  <link href="https://staging.surma.dev/index.xml" rel="self"/>
+  <link href="https://staging.surma.dev"/>
+  <updated>2020-01-27T00:00:00.000Z</updated>
+  <id>https://staging.surma.dev</id>
+  <author>
+    <name>Das Surma</name>
+    <email>surma@surma.link</email>
+  </author>
+  
+  <entry>
+    <title>Case study: Moving a Three.js-based WebXR app off-main-thread</title>
+    <link href="https://staging.surma.dev/things/omt-for-three-xr/"/>
+    <updated>2020-01-27T00:00:00.000Z</updated>
+    <id>https://staging.surma.dev/things/omt-for-three-xr/</id>
+    <content type="html">lol</content>
+</feed>
